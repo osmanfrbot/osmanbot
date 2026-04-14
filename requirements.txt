@@ -1,4 +1,4 @@
 aiogram==3.4.1
-aiohttp
-pandas
-tradingview-ta
+aiohttp==3.9.5
+pandas==2.2.2
+tradingview-ta==3.3.0
